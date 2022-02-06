@@ -1,0 +1,11 @@
+Model Information:
+* title:	Superimposing Dichloroiodomethane Mirror Images
+* source:	https://sketchfab.com/3d-models/superimposing-dichloroiodomethane-mirror-images-09919717a9c14ca2a19d37682a62d9a2
+* author:	Michael Aristov (https://sketchfab.com/Michael.Aristov)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Superimposing Dichloroiodomethane Mirror Images" (https://sketchfab.com/3d-models/superimposing-dichloroiodomethane-mirror-images-09919717a9c14ca2a19d37682a62d9a2) by Michael Aristov (https://sketchfab.com/Michael.Aristov) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

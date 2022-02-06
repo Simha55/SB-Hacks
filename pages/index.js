@@ -1,4 +1,6 @@
 import Head from 'next/head'
+import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -9,8 +11,35 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className='bg-red-500'>
-        Hello World!
+      <div className='md:mx-28 mx-4 pt-8 md:pt-20 pb-12'>
+        <div className='md:grid md:grid-cols-2 items-center text-fontColor'>
+          <div className=''>
+            <h1 className='text-3xl md:text-6xl'>Who <span className='text-blue-600'>we</span> are</h1>
+            <p className='text-xl md:text-2xl py-4 tracking-wider'>APPNAME is an AR based web platform.</p>
+
+            <Link href="/find" passHref>
+              <button className='bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-white py-2 px-8 rounded-md text-xl md:text-2xl'>Explore</button>
+            </Link>
+
+          </div>
+
+          <div className=''>
+            <Image width="600" height="500" src="/vr.svg" alt="" />
+          </div>
+
+
+
+          <div className=''>
+            <Image width="600" height="300" src="/chemistry.svg" alt="" />
+          </div>
+
+          <div className=''>
+            <h1 className='text-3xl md:text-6xl'>What <span className='text-blue-600'>we</span> do?</h1>
+            <p className='text-xl md:text-2xl py-4 tracking-wider'>Learn chemistry with the hepl of interactive 3D models and AR</p>
+
+          </div>
+
+        </div>
       </div>
     </div>
   )

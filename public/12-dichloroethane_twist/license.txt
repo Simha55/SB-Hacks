@@ -1,0 +1,11 @@
+Model Information:
+* title:	1,2-Dichloroethane Twist
+* source:	https://sketchfab.com/3d-models/12-dichloroethane-twist-1b392271722f49868456f48da8fe35b7
+* author:	Michael Aristov (https://sketchfab.com/Michael.Aristov)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1,2-Dichloroethane Twist" (https://sketchfab.com/3d-models/12-dichloroethane-twist-1b392271722f49868456f48da8fe35b7) by Michael Aristov (https://sketchfab.com/Michael.Aristov) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
