@@ -10,7 +10,7 @@ export default function Navbar() {
         <div className="">
             <nav className="flex items-center bg-secondary text-tertiary p-3 flex-wrap px-4 lg:px-16 md:px-8">
                 <Link href="/" passHref><span className="p-2 mr-4 inline-flex items-center text-4xl cursor-pointer text-white font-bold">
-                    APPNAME
+                    ChemLab
                 </span></Link>
                 <button className="lg:hidden right-0 absolute md:px-8 px-6 mr-1 mb-1 ease-linear transition-all duration-150" type="button" onClick={() => setShowNavbar(true)} aria-hidden="false" aria-label="button">
                     <HiOutlineMenuAlt3 className="h-7 w-7" aria-hidden="false" />
@@ -25,7 +25,7 @@ export default function Navbar() {
                                     <div className="flex items-start justify-between text-white p-5 border-b border-solid border-blueGray-200 rounded-t">
                                         <div className="text-3xl cursor-pointer">
                                             <Link href="/" passHref>
-                                                APPNAME
+                                                ChemLab
                                             </Link>
                                         </div>
 
