@@ -1,4 +1,4 @@
-# ChemLab
+# ChemAR
 
 ## 💡 Inspiration
 
@@ -43,7 +43,7 @@ We are using GraphQL to simplify the API calls and to make it easier to use the 
 - We learned how to use Three.js.
 - We learned valuable collaboration skills.
 
-## 🚀 What's next for ChemLab
+## 🚀 What's next for ChemAR
 
 - Adding more features to the app.
 - Adding more 3D models.
