@@ -48,3 +48,7 @@ We are using GraphQL to simplify the API calls and to make it easier to use the 
 - Adding more features to the app.
 - Adding more 3D models.
 - Adding Virtual Reality support.
+
+## Business Model
+
+![image](https://user-images.githubusercontent.com/57456615/152684430-ef494ab5-c956-4fc6-bc4b-582360c5f51a.png)
