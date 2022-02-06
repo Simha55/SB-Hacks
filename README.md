@@ -51,4 +51,5 @@ We are using GraphQL to simplify the API calls and to make it easier to use the 
 
 ## Business Model
 
-![image](https://user-images.githubusercontent.com/57456615/152684430-ef494ab5-c956-4fc6-bc4b-582360c5f51a.png)
+![image](https://user-images.githubusercontent.com/57456615/152685361-c8598622-4ce9-4373-bd45-1ffa2fed868c.png)
+
